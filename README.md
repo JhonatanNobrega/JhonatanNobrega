@@ -3,7 +3,7 @@
 <br>
 
 ### Sobre mim
-- 👔 Idade: 28 anos
+- 👔 Idade: 29 anos
 - 👫 Estado Civil: Casado
 
 - 🔭 Atualmente estou trabalhando na Pentaxial (Desenvolvedor PHP Full Stack)
@@ -11,8 +11,9 @@
 <br>
 
 ### 🌱 Atualmente estou aprendendo 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<br>
+<img width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" />  Laravel
+<img width="30px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" />  VueJS
+<br><br>
 
 ### 🚀 Projetos desenvolvido nos cursos
 - ReactJs 
@@ -33,6 +34,7 @@
 </div><br>
 
 ### 🏫👨‍🎓 Educação
+- Laravue (Laravel PRO, VueJs PRO)
 - B7Web ( PHP, JS, CSS, SASS, HTML, DOCKER, GIT, TYPESCRIPT )
 - Rocketseat ( Ignite ReactJs )
 
