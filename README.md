@@ -3,7 +3,7 @@
 <br>
 
 ### Sobre mim
-- 👔 Idade: 29 anos
+- 👔 Idade: 30 anos
 - 👫 Estado Civil: Casado
 
 - 🔭 Atualmente estou trabalhando na Pentaxial (Desenvolvedor PHP Full Stack)
@@ -24,7 +24,12 @@
 - Laravel
 (<a target="_blank" href="https://github.com/JhonatanNobrega/laravelcms">CMS</a>) 
 - HTML, CSS e Javascript
-(<a target="_blank" href="https://github.com/JhonatanNobrega/beautysalon">BeautySalon</a>) 
+(<a target="_blank" href="https://github.com/JhonatanNobrega/beautysalon">BeautySalon</a>)
+- Vue
+(<a target="_blank" href="https://github.com/JhonatanNobrega/vueschool-pinia-the-enjoyable-vue-store">Pinia: The Enjoyable Vue Store</a>)
+(<a target="_blank" href="https://github.com/JhonatanNobrega/vueschool-typescript-with-vue.js-3">TypeScript with Vue.js 3</a>)
+(<a target="_blank" href="https://github.com/JhonatanNobrega/vueschool-nuxt-js-3-fundamentals">Nuxt.js 3 Fundamentals</a>)
+(<a target="_blank" href="https://github.com/JhonatanNobrega/vueschool-the-vue-3-masterclass">[Em andamento, se desafiando e fazendo projeto com typescript e pinia] - The Vue.js 3 Masterclass</a>)
 
 <br>
 <div>
@@ -35,6 +40,7 @@
 
 ### 🏫👨‍🎓 Educação
 - Laravue (Laravel PRO, VueJs PRO)
+- VueShool (VueJS)
 - B7Web ( PHP, JS, CSS, SASS, HTML, DOCKER, GIT, TYPESCRIPT )
 - Rocketseat ( Ignite ReactJs )
 
